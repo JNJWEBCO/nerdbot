@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0870bde2b45d4707b9ef73377ba83f08)](https://app.codacy.com/app/jaydyn.163/nerdbot?utm_source=github.com&utm_medium=referral&utm_content=JNJWEBCO/nerdbot&utm_campaign=Badge_Grade_Settings)
+
 You can use the [editor on GitHub](https://github.com/JNJWEBCO/nerdbot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
